@@ -1,7 +1,5 @@
 ##What is Sentinel?
 
-Test
-
 Sentinel is a command line tool able to protect Windows 32 bit programs against exploits targeted by attackers or viruses. It can protect your programs against 0-day attacks or publicly known bugs.
 
 ##Why Sentinel?
